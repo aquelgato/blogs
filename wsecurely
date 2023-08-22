@@ -1,0 +1,98 @@
+# HEAD
+
+<head>
+
+<?php if ( !is_user_logged_in() ) { ?>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127338098-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127338098-3');
+</script>
+	
+<script type="text/javascript">
+
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-4655949646631122",
+enable_page_level_ads: true
+});
+</script>
+
+<script type="text/javascript" async src="//c.pubguru.net/pg.wsecurely.com.js"></script>
+
+</head>
+
+
+# FOOTER
+
+<script type="text/javascript" src="//cdn.pubguru.com/fb.js">
+        </script>
+
+
+
+# ABOVE ARTICLE AD
+
+<div class="ad_title">Advertisment</div>
+<div><style>
+.adsslotcustom2 { width: 728px; height: 90px; margin:10px auto; }
+@media(max-width: 544px) { .adsslotcustom2 { width: 320px; height: 100px !important; }
+.adsslotcustom2 ins { width: 320px !important; height: 100px !important; }
+}
+@media(min-width: 544px) { .adsslotcustom2 { width: 728px !important; height: 90px !important; }
+.adsslotcustom2 ins { width: 728px !important; height: 90px !important; }
+}
+</style></div>
+<div class="adsslotcustom2">
+<ins class="adsbygoogle"
+style="display:block; "
+data-ad-client="ca-pub-4655949646631122"
+data-ad-slot="7516143346"
+></ins>
+</div>
+
+
+# TOP CONTENT AD
+
+<div class="ad_title">Advertisment</div>
+<div><style>
+.adsslotcustom1 { width: 728px; height: 90px; margin:20px auto; }
+@media(max-width: 544px) { .adsslotcustom1 { width: 300px; height: 250px !important; }
+.adsslotcustom1 ins { width: 300px !important; height: 250px !important; }
+}
+@media(min-width: 544px) { .adsslotcustom1 { width: 728px !important; height: 90px !important; }
+.adsslotcustom1 ins { width: 728px !important; height: 90px !important; }
+}
+</style></div>
+<div class="adsslotcustom1">
+<ins class="adsbygoogle"
+style="display:block; "
+data-ad-client="ca-pub-4655949646631122"
+data-ad-slot="7516143346"
+></ins>
+</div>
+
+
+# BOTTOM CONTENT AD
+
+<div class="ad_title">Advertisment</div>
+<div><style>
+.adsslotcustom1 { width: 728px; height: 90px; margin:20px auto; }
+@media(max-width: 544px) { .adsslotcustom1 { width: 300px; height: 250px !important; }
+.adsslotcustom1 ins { width: 300px !important; height: 250px !important; }
+}
+@media(min-width: 544px) { .adsslotcustom1 { width: 728px !important; height: 90px !important; }
+.adsslotcustom1 ins { width: 728px !important; height: 90px !important; }
+}
+</style></div>
+<div class="adsslotcustom1">
+<ins class="adsbygoogle"
+style="display:block; "
+data-ad-client="ca-pub-4655949646631122"
+data-ad-slot="7516143346"
+></ins>
+</div>
+
